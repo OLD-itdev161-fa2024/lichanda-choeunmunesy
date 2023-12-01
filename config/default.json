@@ -1,5 +1,7 @@
 {
-"mongoURI": "mongodb+srv://choeunml:Kaylie03!!@itdev161.hf2l2bb.mongodb.net/?retryWrites=true&w=majority"
+"mongoURI": "mongodb+srv://choeunml:Kaylie03!!@itdev161.hf2l2bb.mongodb.net/?retryWrites=true&w=majority",
+"jwtSecret" : "maytheforcebewithyou"
+
 
 
 }
